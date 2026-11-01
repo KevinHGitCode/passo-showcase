@@ -5,6 +5,12 @@
 
 `React 19` · `TypeScript` · `Vite` · `Clean Architecture` · `Web Audio` · `Web MIDI` · `Vitest` · `Playwright`
 
+> **Problem:** Learners who practice with videos and courses get no immediate correction of what they play.  
+> **Solution:** Passo listens through the microphone and corrects each note instantly, in a game-like path for piano and guitar.  
+> **Stack:** React 19, TypeScript, Vite, Web Audio and Web MIDI, Clean Architecture, Vitest, Playwright.  
+> **Live demo:** None (a walkthrough is available on request).  
+> **My role:** Solo project, end to end: product scope, architecture, audio processing, UI, tests and documentation, with an AI assistant under a written method.
+
 ![El camino de aprendizaje de piano](screenshots/camino.png)
 
 *Capturas de la propia aplicación, generadas por una prueba con un micrófono simulado.*
