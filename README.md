@@ -97,6 +97,6 @@ método y unas convenciones escritas.
 > 🔒 **Código fuente privado.** Este repositorio es solo el *case study*. Puedo mostrar el código y la
 > app funcionando en una entrevista técnica.
 
-**Contacto:** [GitHub](https://github.com/KevinHGitCode) · kevinhafiddiazgarcia@gmail.com
+**Contacto:** [GitHub](https://github.com/KevinHGitCode) · [LinkedIn](https://www.linkedin.com/in/kevin-diaz-garcia-846999240/) · [Instagram](https://www.instagram.com/kevin.hdiaz/) · kevinhafiddiazgarcia@gmail.com
 
 <sub>© 2026 Kevin Díaz. All rights reserved. Text and screenshots may not be reused without permission.</sub>
