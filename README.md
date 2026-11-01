@@ -98,3 +98,5 @@ método y unas convenciones escritas.
 > app funcionando en una entrevista técnica.
 
 **Contacto:** [GitHub](https://github.com/KevinHGitCode) · kevinhafiddiazgarcia@gmail.com
+
+<sub>© 2026 Kevin Díaz. All rights reserved. Text and screenshots may not be reused without permission.</sub>
